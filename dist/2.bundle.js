@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{143:function(n,r,t){"use strict";t.r(r),t.d(r,"getUsers",(function(){return e}));function e(){return"message from import javaScript"}}}]);
