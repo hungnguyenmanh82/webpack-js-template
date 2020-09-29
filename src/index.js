@@ -4,6 +4,7 @@ import moment from 'moment';
 import './style.scss';
 import { testlib } from './lib/testlib';
 
+// phải import thì File Loader mới làm việc
 import image from './image.jpg';
 
 console.log('test index.js ok');
